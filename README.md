@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Live Demo  
-[Demo Link](https://github.io/Ghaida-jaaisa/Online-learning-platform)
+[Demo Link](https://ghaida-jaaisa.github.io/Online-learning-platform/)
 
 ---
 
